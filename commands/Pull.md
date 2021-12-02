@@ -1,4 +1,4 @@
-## git pull
+# git pull
 
 Similar to [git push](./PUSH.md), a `git pull` will interact with a remote repository.Only this time it will **pull** the changes it does not have from the remote down to the local repository.
 
@@ -11,7 +11,7 @@ git pull origin mail
 
 If there is any upstream connection established, you can use `git pull` without specifying a remote or branch.
 
-### Resources
+## Resources
 
 - [Git Pull Documentation](https://git-scm.com/docs/git-pull)
 

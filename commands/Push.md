@@ -24,7 +24,7 @@ git push -u origin main
 
 ## Resources
 
--[Git Push Documentation](https://git-scm.com/docs/git-push)
+- [Git Push Documentation](https://git-scm.com/docs/git-push)
 
 ---
 
